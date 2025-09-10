@@ -1,4 +1,8 @@
-# EnerBoard Lib
+<p align="center">
+  <img alt="enerboard" src="https://github.com/marvhock/enerboard-lib/blob/main/enerboard.png?raw=true">
+</p>
+
+# enerboard Lib
 
 This is one of three Repositories for the EnerBoard Prototype
 1. [EnerBoard UI](https://github.com/marvhock/enerboard-ui) - Angular based Frontend.
